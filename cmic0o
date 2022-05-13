@@ -1,5 +1,5 @@
 header.log.pi.int
-header.int.loop.heade
+header.int.loop.header
 header.log.pi//INPUT-OUTPUT
 orientationHeading.int.loop.log.loop.header
 OUTPUT-int
@@ -11,3 +11,6 @@ OUTPUT-int
 header.log.pi//INPUT-OUTPUT
 header.log.powerbox. Input
 header.loop
+x = my_class(107px)
+y = my_class(100px)
+DIV.log.pi.int.loop(head.loop.InterruptedException)
