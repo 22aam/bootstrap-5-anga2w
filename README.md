@@ -419,19 +419,6 @@ head</body>
                 <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                 <p onMouseOver="MM_callJS('java\'')"><a href="#" class="btn btn-primary" role="button">
                         <div>Content for New div Tag Goes Here</div>
-                Button</a>  <a href="#" class="btn btn-default" role="button">Buttowidth: 1060px;
-	height: 1337px;width: 1060px;
-	height: 1337px;
-width: 793px;
-	height: 156px;
-	font-family: 'Source Sans Pro';
-	font-size: 72px;
-	font-weight: 300;
-	line-height: 107px;
-	color: #ffffff;
-	transform: scale(0.552,0.552);
-width: 793px;
-	height: 156px;
 	font-family: 'Source Sans Pro';
 	font-size: 72px;
 	font-weight: 300;
