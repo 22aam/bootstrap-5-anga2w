@@ -1,3 +1,5 @@
 header.log.pi//INPUT-OUTPUT
 orientationHeading.int.loop.log.loop.header
-OUTPUT-input
+OUTPUT-int
+    HEADER.LOG.PI.INT.LinearOptimizationService
+    HEADER.LOG.PI.loophead
