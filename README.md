@@ -61,7 +61,6 @@ fastify.listen(process.env.PORT, function(err, address) {
           head=LinearOptimizationService
 let=parseFloat
 head=let=isNaN
-head=ScriptProperties
 head=loo-ScriptProperties
 Jdbc=WeakMap(head)=log.pi
 <link href="power.css" rel="stylesheet" type="text/css">
