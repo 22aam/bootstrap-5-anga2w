@@ -799,14 +799,6 @@ class.log.pi
 <tr>
 <td>Remove classes and IDs</td>
 <td><span id="demoId">Use classes to <strong class="demoClass">style everything</strong>.</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove all tags</td>
-<td>This leaves <strong style="color: blue;">only the plain</strong> <em>text</em>. <img style="margin: 1px;" src="file:///C|/Users/ascho/OneDrive/Documents/Unnamed Site 2/images/smiley.png" alt="laughing" width="16" height="16" /></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
 <td>Remove successive &amp;nbsp;s</td>
 <td>Never use non-breaking spaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to set margins.</td>
 <td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
